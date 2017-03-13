@@ -1,0 +1,24 @@
+Script started on 2017年03月13日 (週一) 21時27分21秒
+]0;andrew@andrew-System-Product-Name: ~/桌面[01;32mandrew@andrew-System-Product-Name[00m:[01;34m~/桌面[00m$ who [Kami [K;pwd
+andrew
+/home/andrew/桌面
+]0;andrew@andrew-System-Product-Name: ~/桌面[01;32mandrew@andrew-System-Product-Name[00m:[01;34m~/桌面[00m$ git con [Kfig -l
+user.email=andrewlin210162@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/andrewlin999/try.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+]0;andrew@andrew-System-Product-Name: ~/桌面[01;32mandrew@andrew-System-Product-Name[00m:[01;34m~/桌面[00m$ git clone http://github.com/<>a>n>d>r>e>w>[C[K[1Pandrew[C[C[C[C[C[Clin9 99/lab1.gut^[[2~[K[K[K[K[K[Kit
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;andrew@andrew-System-Product-Name: ~/桌面[01;32mandrew@andrew-System-Product-Name[00m:[01;34m~/桌面[00m$ git clone http://github.com/andrewlin9999/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 11, done.[K
+remote: Compressing objects:  14% (1/7)   [Kremote: Compressing objects:  28% (2/7)   [Kremote: Compressing objects:  42% (3/7)   [Kremote: Compressing objects:  57% (4/7)   [Kremote: Compressing objects:  71% (5/7)   [Kremote: Compressing objects:  85% (6/7)   [Kremote: Compressing objects: 100% (7/7)   [Kremote: Compressing objects: 100% (7/7), done.[K
+remote: Total 11 (delta 1), reused 9 (delta 1), pack-reused 0[K
+Unpacking objects:   9% (1/11)   Unpacking objects:  18% (2/11)   Unpacking objects:  27% (3/11)   Unpacking objects:  36% (4/11)   Unpacking objects:  45% (5/11)   Unpacking objects:  54% (6/11)   Unpacking objects:  63% (7/11)   Unpacking objects:  72% (8/11)   Unpacking objects:  81% (9/11)   Unpacking objects:  90% (10/11)   Unpacking objects: 100% (11/11)   Unpacking objects: 100% (11/11), done.
+Checking connectivity... done.
+]0;andrew@andrew-System-Product-Name: ~/桌面[01;32mandrew@andrew-System-Product-Name[00m:[01;34m~/桌面[00m$ exit
+
+Script done on 2017年03月13日 (週一) 21時31分24秒
